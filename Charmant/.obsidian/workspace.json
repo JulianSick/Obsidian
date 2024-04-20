@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "58e6630c41431ab4",
+    "type": "split",
+    "children": [
+      {
+        "id": "350d863382f40ad9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d39c3722e890dd49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-04-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "268065b5d38c80b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bfcef9dc88a3cdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a314ccae4aee5ffb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "564474d7a931b25d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fbee46ab95fc17f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d9e65f1a12aa8d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "10f5d5077bb0e9b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "633c83f15c407539",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2024-04-20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "adf08a6870bb8bf2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2024-04-20.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89756e1233278c73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fc2a51f1717ccf55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2024-04-20.md"
+              }
+            }
+          },
+          {
+            "id": "1cb725b8ac750546",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d39c3722e890dd49",
+  "lastOpenFiles": [
+    "Daily/2024-04-17.md",
+    "Daily/2024-04-20.md",
+    "Daily/2024-04-16.md",
+    "Private",
+    "Engineering/Season 24/Akku 24",
+    "Engineering/Season 23/Akku 23",
+    "Engineering/Season 24/Overall",
+    "Engineering/Season 23/Overall",
+    "Engineering/Season 24",
+    "Engineering/Season 23",
+    "Siemens",
+    "Engineering",
+    "Daily",
+    "Untitled.md",
+    "Welcome.md",
+    "Untitled.canvas"
+  ]
+}
