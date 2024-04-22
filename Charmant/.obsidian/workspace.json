@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering/Season 24/Akku 24/Akku 24.md",
+                "file": "Daily/2024-04-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ed196d1ee9c506b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University applications.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering/Season 24/Akku 24/Akku 24.md",
+                "file": "University applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering/Season 24/Akku 24/Akku 24.md",
+                "file": "University applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering/Season 24/Akku 24/Akku 24.md"
+                "file": "University applications.md"
               }
             }
           },
@@ -154,11 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d39c3722e890dd49",
+  "active": "8ed196d1ee9c506b",
   "lastOpenFiles": [
+    "Daily/2024-04-22.md",
+    "University applications.md",
+    "Private",
+    "Engineering/Season 24/Akku 24/Akku 24.md",
+    "Daily/2024-04-21.md",
     "Engineering/Season 23/Akku 23/Akku 23.md",
     "Daily/2024-04-20.md",
-    "Engineering/Season 24/Akku 24/Akku 24.md",
     "Engineering/Season 24/Akku 24",
     "Engineering/Season 23/Akku 23",
     "Engineering/Season 24",
@@ -170,8 +187,6 @@
     "Engineering/Season 24/Overall",
     "Engineering/Season 23/Overall",
     "Siemens",
-    "Daily",
-    "Untitled.md",
     "Welcome.md",
     "Untitled.canvas"
   ]
